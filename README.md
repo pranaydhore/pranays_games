@@ -1,0 +1,7 @@
+# Games
+Game develop by the HTML , CSS , Javascript 
+<h1>Tic-Tac-Toe</h1>
+Tic-Tac-Toe is a simple and strategic two-player game played on a 3x3 grid. Players take turns marking one of the nine spaces with their respective symbols: “X” or “O.” The primary objective of the game is to form a straight line of three consecutive marks horizontally, vertically, or diagonally before the opponent does. If all nine spaces are filled and neither player achieves this, the game results in a draw. Tic-Tac-Toe is a game of tactics that encourages players to anticipate and block their opponent’s moves while planning their own winning strategy. It’s widely popular because of its simplicity and can be played virtually anywhere, using paper and pencil, or as a digital game.
+
+<h1>Rock-Paper-Scissors</h1>
+Rock-Paper-Scissors is a quick, fun, and universally recognized hand game typically played between two people. Each player simultaneously forms one of three shapes with their hand: rock (a fist), paper (an open hand), or scissors (a fist with the index and middle fingers extended). The rules are simple: rock crushes scissors, scissors cut paper, and paper covers rock. The winner is determined by the rules of interaction between the chosen shapes, and a tie occurs when both players select the same shape. Rock-Paper-Scissors is often used for decision-making or as a light-hearted game of chance and psychology, testing players’ ability to predict and counter their opponent’s choices. It’s a fun and timeless game enjoyed across cultures.
